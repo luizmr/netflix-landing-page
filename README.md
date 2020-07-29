@@ -7,7 +7,7 @@
 
 ## 💻 About project
 
-A replica of Netflix landing page made with pure CSS, HTML and JS.
+A replica of Netflix landing page made with pure CSS, HTML and JS, fully responsive.
 
 ## 🛠 Technology
 
